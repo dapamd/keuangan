@@ -1,0 +1,24 @@
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Undefined index: status in /home/anpediak/public_html/manajemen/header.php on line 27
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Undefined index: id in /home/anpediak/public_html/manajemen/header.php on line 61
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/anpediak/public_html/manajemen/header.php on line 64
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Undefined index: nama in /home/anpediak/public_html/manajemen/header.php on line 70
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Undefined index: level in /home/anpediak/public_html/manajemen/header.php on line 70
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Undefined index: id in /home/anpediak/public_html/manajemen/header.php on line 86
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/anpediak/public_html/manajemen/header.php on line 89
+[28-Dec-2023 00:49:31 UTC] PHP Notice:  Undefined index: nama in /home/anpediak/public_html/manajemen/header.php on line 97
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Undefined index: status in /home/anpediak/public_html/manajemen/header.php on line 27
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Undefined index: id in /home/anpediak/public_html/manajemen/header.php on line 61
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/anpediak/public_html/manajemen/header.php on line 64
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Undefined index: nama in /home/anpediak/public_html/manajemen/header.php on line 70
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Undefined index: level in /home/anpediak/public_html/manajemen/header.php on line 70
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Undefined index: id in /home/anpediak/public_html/manajemen/header.php on line 86
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/anpediak/public_html/manajemen/header.php on line 89
+[28-Dec-2023 03:15:32 UTC] PHP Notice:  Undefined index: nama in /home/anpediak/public_html/manajemen/header.php on line 97
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Undefined index: status in /home/anpediak/public_html/manajemen/header.php on line 27
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Undefined index: id in /home/anpediak/public_html/manajemen/header.php on line 61
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/anpediak/public_html/manajemen/header.php on line 64
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Undefined index: nama in /home/anpediak/public_html/manajemen/header.php on line 70
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Undefined index: level in /home/anpediak/public_html/manajemen/header.php on line 70
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Undefined index: id in /home/anpediak/public_html/manajemen/header.php on line 86
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/anpediak/public_html/manajemen/header.php on line 89
+[02-Jan-2024 07:25:38 UTC] PHP Notice:  Undefined index: nama in /home/anpediak/public_html/manajemen/header.php on line 97
